@@ -1,0 +1,41 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "utest", "utest\utest.csproj", "{CDFB6A88-D792-487F-88A4-15996FB82971}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameAPI", "GameAPI\GameAPI.csproj", "{5EAE8727-FF93-496C-8665-3ED013FBA4A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coreProg", "coreProg\coreProg.csproj", "{528A1811-24D0-4C3E-A32E-8D8DF70B3A8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlooditCore", "FlooditCore\FlooditCore.csproj", "{BA90718E-2F4B-441B-939B-F36A04595850}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IGameCore", "IGameCore\IGameCore.csproj", "{11B9DB4C-39CC-466F-AFD5-F1A8BE203584}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDFB6A88-D792-487F-88A4-15996FB82971}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CDFB6A88-D792-487F-88A4-15996FB82971}.Debug|x86.Build.0 = Debug|Any CPU
+		{CDFB6A88-D792-487F-88A4-15996FB82971}.Release|x86.ActiveCfg = Release|Any CPU
+		{CDFB6A88-D792-487F-88A4-15996FB82971}.Release|x86.Build.0 = Release|Any CPU
+		{5EAE8727-FF93-496C-8665-3ED013FBA4A3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5EAE8727-FF93-496C-8665-3ED013FBA4A3}.Debug|x86.Build.0 = Debug|Any CPU
+		{5EAE8727-FF93-496C-8665-3ED013FBA4A3}.Release|x86.ActiveCfg = Release|Any CPU
+		{5EAE8727-FF93-496C-8665-3ED013FBA4A3}.Release|x86.Build.0 = Release|Any CPU
+		{528A1811-24D0-4C3E-A32E-8D8DF70B3A8D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{528A1811-24D0-4C3E-A32E-8D8DF70B3A8D}.Debug|x86.Build.0 = Debug|Any CPU
+		{528A1811-24D0-4C3E-A32E-8D8DF70B3A8D}.Release|x86.ActiveCfg = Release|Any CPU
+		{528A1811-24D0-4C3E-A32E-8D8DF70B3A8D}.Release|x86.Build.0 = Release|Any CPU
+		{BA90718E-2F4B-441B-939B-F36A04595850}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BA90718E-2F4B-441B-939B-F36A04595850}.Debug|x86.Build.0 = Debug|Any CPU
+		{BA90718E-2F4B-441B-939B-F36A04595850}.Release|x86.ActiveCfg = Release|Any CPU
+		{BA90718E-2F4B-441B-939B-F36A04595850}.Release|x86.Build.0 = Release|Any CPU
+		{11B9DB4C-39CC-466F-AFD5-F1A8BE203584}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{11B9DB4C-39CC-466F-AFD5-F1A8BE203584}.Debug|x86.Build.0 = Debug|Any CPU
+		{11B9DB4C-39CC-466F-AFD5-F1A8BE203584}.Release|x86.ActiveCfg = Release|Any CPU
+		{11B9DB4C-39CC-466F-AFD5-F1A8BE203584}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
